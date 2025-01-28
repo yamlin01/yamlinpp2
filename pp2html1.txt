@@ -1,0 +1,145 @@
+<html lang="en">
+<head>
+   <body bgcolor="pink"
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>All About Myself</title>
+</head>
+<body>
+    <header id="top">
+        <h1 style="text-align: center; color: purple;">All About Myself</h1>
+        <nav>
+            <ul>
+                <li><a href="html1">Home</a></li>
+                <li><a href="#About Myself">About Myself</a></li>
+                <li><a href="#My life Story">My life story</a></li>
+                <li><a href="#Hobbies">hobbies</a></li>
+                <li><a href="#Favorites">favorites</a></li>
+                <li><a href="#Friends">friends</a></li>
+            </ul>
+        </nav>
+    </header>
+    <hr>
+    <main>
+    <article id="About Myself">
+        <section>
+            <h2>About Myself</h2>
+            <figure>
+                <img src="images/storelogo.png" alt="My image"height="300">
+                <figcaption style="font-weight: bold;">
+                My picture </figcaption>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta molestiae ipsum ab, quo, consequuntur deserunt ducimus quasi officia accusamus neque odio sed iste iusto nobis. Ea numquam tempore sint eos.`</p>
+            </figure>
+            </section>
+ <hr>
+            <article id="My life Story">
+                <section>
+                <h2>My Life Story</h2>
+                <figure>
+                    <img src="childhood.jpg" alt="my image"height="300">
+                    <figcaption style="font-weight: bold;">
+                  Childhood
+                 </figcaption>
+                 <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore dicta omnis, delectus aspernatur nisi ipsa enim facilis, cumque nemo accusantium at hic illum quo tempora ut tenetur, reprehenderit natus architecto.
+                </p>
+            </figure>
+                <section>
+             <figure>
+                 <img src="TEENAGE.jpg" alt="my image"height="300">
+                 <figcaption style="font-weight: bold;">
+               Teenage
+                </figcaption>
+                    <p>
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore dicta omnis, delectus aspernatur nisi ipsa enim facilis, cumque nemo accusantium at hic illum quo tempora ut tenetur, reprehenderit natus architecto.
+                    </p>
+                </figure>
+                </section>
+                <figure>
+                    <img src="Adulthood.jpg" alt="my image"height="300">
+                    <figcaption style="font-weight: bold;">
+                  Adulthood
+                 </figcaption>
+                 <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore dicta omnis, delectus aspernatur nisi ipsa enim facilis, cumque nemo accusantium at hic illum quo tempora ut tenetur, reprehenderit natus architecto.</p>
+
+                </figure>  
+
+        <hr>
+
+        <article id="Hobbies">
+            <section>
+                <h2>Hobbies</h2>
+                <h4>Indoor</h4>
+                <figure>
+                    <img src="watching serries or movies.jpg" alt="indoor hobbies"height="300">
+                    <figcaption style="font-weight: bold;">
+                    Watching Asian series or Movies </figcaption>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta molestiae ipsum ab, quo, consequuntur deserunt ducimus quasi officia accusamus neque odio sed iste iusto nobis. Ea numquam tempore sint eos.`</p>
+                    <img src="watching serries or movies.jpg" alt="indoor hobbies"height="300">
+                    <figcaption style="font-weight: bold;">
+                    Reading Novels </figcaption>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta molestiae ipsum ab, quo, consequuntur deserunt ducimus quasi officia accusamus neque odio sed iste iusto nobis. Ea numquam tempore sint eos.`</p>
+                    <img src="dancing.jpg" alt="indoor hobbies"height="300">
+                    <figcaption style="font-weight: bold;">
+                    Dancing </figcaption>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta molestiae ipsum ab, quo, consequuntur deserunt ducimus quasi officia accusamus neque odio sed iste iusto nobis. Ea numquam tempore sint eos.`</p>
+                
+                </figure>
+            </section>
+            <h4>Outdoor</h4>
+            <figure>
+                <img src="gardenning.jpg" alt="outdoor hobbies"height="300">
+                <figcaption style="font-weight: bold;">
+                Gardenning </figcaption>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta molestiae ipsum ab, quo, consequuntur deserunt ducimus quasi officia accusamus neque odio sed iste iusto nobis. Ea numquam tempore sint eos.`</p>
+            </figure>
+
+
+        <hr>
+        <article id="Favorites">
+            <section>
+                <h2>Favorites</h2>
+                 <figure>
+                    <img src="images/storelogo.png" alt="Foods"height="300">
+                    <figcaption style="font-weight: bold;"> Foods</figcaption>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta molestiae ipsum ab, quo, consequuntur deserunt ducimus quasi officia accusamus neque odio sed iste iusto nobis. Ea numquam tempore sint eos.`</p>
+                </figure>
+  <section>
+    <figure>
+        <img src="images/storelogo.png" alt="Artist"height="300">
+        <figcaption style="font-weight: bold;"> Artist</figcaption>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta molestiae ipsum ab, quo, consequuntur deserunt ducimus quasi officia accusamus neque odio sed iste iusto nobis. Ea numquam tempore sint eos.`</p>
+    </figure>
+<section>
+    <article>
+    <hr>
+   <article id="Friends">
+            <section>
+                <h2>Friends</h2>
+                 <figure>
+                    <img src="friends1.jpg" alt="Closefriends"height="300">
+                    <img src="friends2.jpg" alt="Closefriends"height="300">
+                    <img src="friends3.jpg" alt="Closefriends"height="300">
+                    <figcaption style="font-weight: bold;"> Closefriends</figcaption>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta molestiae ipsum ab, quo, consequuntur deserunt ducimus quasi officia accusamus neque odio sed iste iusto nobis. Ea numquam tempore sint eos.`</p>
+                    </figure>
+ <section>
+    <figure>
+        <img src="cfriend1.jpg" alt="Collegefriends"height="300">
+        <img src="cfriend2.jpg" alt="Collegefriends"height="300">
+        <img src="cfriend.jpg" alt="Collegefriends"height="300">
+        <img src="cfriend4.jpg" alt="Collegefriends"height="300">
+        <figcaption style="font-weight: bold;"> CollegeFriends</figcaption>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta molestiae ipsum ab, quo, consequuntur deserunt ducimus quasi officia accusamus neque odio sed iste iusto nobis. Ea numquam tempore sint eos.`</p>
+    </figure> 
+    </section>
+</article>
+</main>
+<hr>
+    <footer style="text-align: center;"">
+        <p  style="font-weight: bold;">All Rights Reserved &copy; nilmaypepito7@gmail.com</p>
+        <a href="#top" style="text-align: center;">Back to Top</a>
+    </footer>
+</body>
+</html>
