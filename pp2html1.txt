@@ -1,142 +1,158 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
-   <body bgcolor="pink"
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>All About Myself</title>
 </head>
 <body>
     <header id="top">
-        <h1 style="text-align: center; color: purple;">All About Myself</h1>
+        <h1 style="text-align: center; color: blue;">All About Myself</h1>
         <nav>
             <ul>
-                <li><a href="html1">Home</a></li>
-                <li><a href="#About Myself">About Myself</a></li>
-                <li><a href="#My life Story">My life story</a></li>
-                <li><a href="#Hobbies">hobbies</a></li>
-                <li><a href="#Favorites">favorites</a></li>
-                <li><a href="#Friends">friends</a></li>
-            </ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="#about myself">About Myself</a></li>
+                <li><a href="#lifestory">My lifestory</a></li>
+                <li><a href="#hobby">Hobbies</a></li>          
+                <li><a href="#favorites">Favorites</a></li>
+                <li><a href="#friends">Friends</a></li>
+                
+                    
+         </ul>
         </nav>
-    </header>
-    <hr>
+        <hr>
+
     <main>
-    <article id="About Myself">
-        <section>
-            <h2>About Myself</h2>
-            <figure>
-                <img src="images/storelogo.png" alt="My image"height="300">
-                <figcaption style="font-weight: bold;">
-                My picture </figcaption>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta molestiae ipsum ab, quo, consequuntur deserunt ducimus quasi officia accusamus neque odio sed iste iusto nobis. Ea numquam tempore sint eos.`</p>
-            </figure>
-            </section>
- <hr>
-            <article id="My life Story">
-                <section>
-                <h2>My Life Story</h2>
+        <article id="about">
+            <section id="about myself">
+                <h2>About Myself</h2>
+                <p> this is me </p>
+            
+
                 <figure>
-                    <img src="childhood.jpg" alt="my image"height="300">
+                    <img src="jui.jpg" alt="Self Photo" height="200">
                     <figcaption style="font-weight: bold;">
-                  Childhood
-                 </figcaption>
-                 <p>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore dicta omnis, delectus aspernatur nisi ipsa enim facilis, cumque nemo accusantium at hic illum quo tempora ut tenetur, reprehenderit natus architecto.
-                </p>
-            </figure>
-                <section>
-             <figure>
-                 <img src="TEENAGE.jpg" alt="my image"height="300">
-                 <figcaption style="font-weight: bold;">
-               Teenage
-                </figcaption>
-                    <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore dicta omnis, delectus aspernatur nisi ipsa enim facilis, cumque nemo accusantium at hic illum quo tempora ut tenetur, reprehenderit natus architecto.
+                        All About Myself
+                    </figcaption>
+                    <p>Hi I am Joy Clister Mendoza, 20 years old and I live in D-5 Triangulo Nasipit, Agusan del Norte </p>
+                </figure>
+
+            </section>
+
+            <section id="lifestory">
+                <h2>My life story</h2>
+                <h2>Childhood</h2>
+                <figure>
+                    <img src="childhood.jpg" alt="childhood photo" height="250">
+                    <figcaption style="font-weight: bold;">
+                       
+                    </figcaption>
+                    <p> Childhood is a time of unfiltered wonder, where every day feels like a new adventure. It’s the feeling of grass under bare feet, the thrill of running until you’re breathless, and the joy of finding treasures in places others overlook. It’s the scent of rain-soaked earth or the warmth of a summer afternoon spent playing with friends. 
+                        
                     </p>
                 </figure>
-                </section>
-                <figure>
-                    <img src="Adulthood.jpg" alt="my image"height="300">
-                    <figcaption style="font-weight: bold;">
-                  Adulthood
-                 </figcaption>
-                 <p>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore dicta omnis, delectus aspernatur nisi ipsa enim facilis, cumque nemo accusantium at hic illum quo tempora ut tenetur, reprehenderit natus architecto.</p>
-
-                </figure>  
-
-        <hr>
-
-        <article id="Hobbies">
-            <section>
-                <h2>Hobbies</h2>
-                <h4>Indoor</h4>
-                <figure>
-                    <img src="watching serries or movies.jpg" alt="indoor hobbies"height="300">
-                    <figcaption style="font-weight: bold;">
-                    Watching Asian series or Movies </figcaption>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta molestiae ipsum ab, quo, consequuntur deserunt ducimus quasi officia accusamus neque odio sed iste iusto nobis. Ea numquam tempore sint eos.`</p>
-                    <img src="watching serries or movies.jpg" alt="indoor hobbies"height="300">
-                    <figcaption style="font-weight: bold;">
-                    Reading Novels </figcaption>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta molestiae ipsum ab, quo, consequuntur deserunt ducimus quasi officia accusamus neque odio sed iste iusto nobis. Ea numquam tempore sint eos.`</p>
-                    <img src="dancing.jpg" alt="indoor hobbies"height="300">
-                    <figcaption style="font-weight: bold;">
-                    Dancing </figcaption>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta molestiae ipsum ab, quo, consequuntur deserunt ducimus quasi officia accusamus neque odio sed iste iusto nobis. Ea numquam tempore sint eos.`</p>
-                
-                </figure>
             </section>
-            <h4>Outdoor</h4>
-            <figure>
-                <img src="gardenning.jpg" alt="outdoor hobbies"height="300">
-                <figcaption style="font-weight: bold;">
-                Gardenning </figcaption>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta molestiae ipsum ab, quo, consequuntur deserunt ducimus quasi officia accusamus neque odio sed iste iusto nobis. Ea numquam tempore sint eos.`</p>
-            </figure>
+        </article>
+    </section>
 
-
-        <hr>
-        <article id="Favorites">
-            <section>
-                <h2>Favorites</h2>
-                 <figure>
-                    <img src="images/storelogo.png" alt="Foods"height="300">
-                    <figcaption style="font-weight: bold;"> Foods</figcaption>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta molestiae ipsum ab, quo, consequuntur deserunt ducimus quasi officia accusamus neque odio sed iste iusto nobis. Ea numquam tempore sint eos.`</p>
-                </figure>
-  <section>
-    <figure>
-        <img src="images/storelogo.png" alt="Artist"height="300">
-        <figcaption style="font-weight: bold;"> Artist</figcaption>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta molestiae ipsum ab, quo, consequuntur deserunt ducimus quasi officia accusamus neque odio sed iste iusto nobis. Ea numquam tempore sint eos.`</p>
-    </figure>
-<section>
-    <article>
-    <hr>
-   <article id="Friends">
-            <section>
-                <h2>Friends</h2>
-                 <figure>
-                    <img src="friends1.jpg" alt="Closefriends"height="300">
-                    <img src="friends2.jpg" alt="Closefriends"height="300">
-                    <img src="friends3.jpg" alt="Closefriends"height="300">
-                    <figcaption style="font-weight: bold;"> Closefriends</figcaption>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta molestiae ipsum ab, quo, consequuntur deserunt ducimus quasi officia accusamus neque odio sed iste iusto nobis. Ea numquam tempore sint eos.`</p>
-                    </figure>
- <section>
-    <figure>
-        <img src="cfriend1.jpg" alt="Collegefriends"height="300">
-        <img src="cfriend2.jpg" alt="Collegefriends"height="300">
-        <img src="cfriend.jpg" alt="Collegefriends"height="300">
-        <img src="cfriend4.jpg" alt="Collegefriends"height="300">
-        <figcaption style="font-weight: bold;"> CollegeFriends</figcaption>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta molestiae ipsum ab, quo, consequuntur deserunt ducimus quasi officia accusamus neque odio sed iste iusto nobis. Ea numquam tempore sint eos.`</p>
-    </figure> 
+    <section id="lifestory">
+        <h2>Teenage</h2>
+        <figure>
+            <img src="teenage.jpg" alt="teenage photo" height="250">
+            <figcaption style="font-weight: bold;">
+                
+            </figcaption>
+            <p> 
+              Joy's Teenage years are like walking through a whirlwind of change and discovery. It’s that strange in-between time where you're not quite a child, but you're also not fully an adult. There’s a constant mix of freedom and uncertainty—freedom to explore, to make mistakes, and to chase after things you want, but also the weight of trying to figure out who you are in the middle of shifting friendships, new responsibilities, and a lot of firsts. 
+            </p>
+        </figure>
     </section>
 </article>
-</main>
-<hr>
+
+
+
+    <h2>Adulthood</h2>
+    <figure>
+        <img src="jui.jpg" alt="adulthood photo" height="250">
+        <figcaption style="font-weight: bold;">
+           
+        </figcaption>
+        <p>Adulthood comes with freedom, but also with the weight of decisions. You start to feel the consequences of the risks you’ve taken and the things you’ve put off. Some dreams evolve into practical realities, while others might shift or fade, making room for new ones. It’s a time where you start to understand the value of time—how precious it is and how little there sometimes feels like you have. You learn what it truly means to be independent, but also how important it is to rely on others. 
+            
+        </p>
+    </figure>
+</section>
+</article>
+</section>
+
+
+        <hr>
+        <article id="hobby">
+            <section>
+                <h2>Hobbies</h2>
+                
+                <figure>
+                    <img src="books.jpg" alt="Indoor"  height="250">
+                    <figcaption style="font-weight: bold;">My Indoor Hobby: Reading books</figcaption>
+                    <p>My hobby reading that allows you to escape from the pressures of daily life and immerse yourself in different worlds, whether it's a fantastical realm, a historical setting, or a deep exploration of human emotions  Books open doors to endless learning. From fiction to non-fiction, reading constantly exposes you to new ideas, perspectives, and knowledge. You can explore different cultures, historical events, scientific discoveries, and personal development techniques all from the comfort of your home..</p>
+                </figure>
+            </section>
+            <hr>
+            <article id="hobby">
+                <section>
+                    <h2></h2>
+                    <figure>
+                        <img src="badminton.jpg" alt="Outdoor"  height="250">
+                        <figcaption style="font-weight: bold;">My Outdoor Hobby: Playing badminton</figcaption>
+                        <p>Playing badminton helps develop a range of skills, including hand-eye coordination, reflexes, footwork, and strategic thinking. With practice, you learn how to anticipate your opponent’s moves, how to execute different types of shots (like smashes, drops, or clears), and how to adjust your tactics depending on the match.</p>
+                    </figure>
+                </section>
+       
+                <hr>
+
+    <article id="favorites">
+        <section>
+            <h2>Favorites</h2>
+            <figure>
+                <img src="adobo.jpg" alt="favorite" height="200">
+                <figcaption style="font-weight: bold;">My Favorite Food: Chicken Adobo</figcaption>
+                <p>Chicken adobo is known for its perfect balance of salty, tangy, and slightly sweet flavors. The soy sauce, vinegar, and garlic create a savory base, while the addition of bay leaves and peppercorns deepens the taste. This combination hits all the right notes on your palate, making it incredibly satisfying to eat.</p>
+          </figure>
+      </section>
+      <section>
+        <h2></h2>
+        <figure>
+            <img src="niki.jpg" alt="favorite" height="250">
+            <figcaption style="font-weight: bold;"> My Favorite Artist: Niki</figcaption>
+            <P>NIKI’s songwriting often feels deeply personal, and her lyrics resonate with a lot of people. Whether she’s singing about love, heartbreak, or self-reflection, her words hit home for listeners who connect with her experiences. Her ability to express vulnerability in a way that's still empowering makes her music feel very genuine.
+
+                .</P>
+        </figure>
+    </section>
+    
+
+   <article id="friends">
+   <section>
+    <h2>Friends</h2>
+    <figure>
+        <img src="close friends.jpg" alt="friends" height="250">
+        <figcaption style="font-weight: bold;">My Close Friends</figcaption>
+        <p>This is my close friends. We're friends since we we're young and we ride bmx together, eating snacks together and enjoying every moments we we're together and they are not just a friends but a family to me, we helped each others back. They mean a lot to me.  </p>
+</figure>
+</section>
+    <hr>
+<section>
+     
+    <figure>
+        <img src="college friends.jpg" alt="friends" height="250">
+        <figcaption style="font-weight: bold;">My College Friends</figcaption>
+        <p>My college friends are a constant source of support, laughter, and motivation. They’ve become my second family, and together, we navigate the challenges and joys of college life. Whether we’re studying for exams, discussing our dreams, or simply hanging out, each moment with them is filled with value. What I appreciate the most about my college friends is how we all bring different strengths and perspectives to the table. We help each other grow academically, personally, and emotionally. Their encouragement keeps me focused on my goals, while their company makes the college experience so much more enjoyable. Through every high and low, I know that my college friends will always have my back.</p>
+        
+    </figure>
+
+
+</section>
+
     <footer style="text-align: center;"">
         <p  style="font-weight: bold;">All Rights Reserved &copy; nilmaypepito7@gmail.com</p>
         <a href="#top" style="text-align: center;">Back to Top</a>
